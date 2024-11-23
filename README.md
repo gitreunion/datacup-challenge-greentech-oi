@@ -21,6 +21,8 @@ Notre solution répond au problème  du traitement de manière éfficace de la p
 
 [Guide d'installation](/INSTALL.md)
 
+Model AI de Meta : https://huggingface.co/meta-llama/Llama-3.2-11B-Vision-Instruct
+
 ### **Utilisation**
 
 >TODO / **documentation d'utilisation de la solution**
