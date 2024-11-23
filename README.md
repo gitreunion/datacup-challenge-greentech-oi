@@ -5,17 +5,17 @@ La [Réunion DataCup Challenge](https://data.regionreunion.com/p/page-reunion-da
 L’objectif de cette seconde édition est de continuer à fédérer une communauté autour des données ouvertes du territoire ainsi qu'initier des projets pérennisables et utiles au plus grand nombre.
 
 
-## Nom de l'équipe
+## Nom de l'équipe GREENTECH OI
 
-Notre équipe a choisi de répondre au défi ... porté par ....
-Ce défi s'inscrit ... (rappeler le contexte).
+Notre équipe a choisi de répondre au défi  porté par  Le territoinre de l'Ouest 
+Ce défi s'inscrit (rappeler le contexte).
 Il a pour objectif de ... (rappeler l'objectif).
 
 
 
 ## **Documentation**
 
-Notre solution répond au problème ... . Elle consiste à ... . Cette solution s'adresse à ... .
+Notre solution répond au problème  du traitement de manière éfficace de la problémétique des dépost  d'ordures. Elle consiste à  proposer une plateforme sur pc qui propose des outils de prise de décision. Via une IA Cette solution s'adresse à  oprérateur 
 
 ### **Installation**
 
